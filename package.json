@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "homepage": "https://ansarsaudagar40.github.io/study-tracker/",
+  "homepage": "https://ansarsaudagar.github.io/study-tracker/",
   "scripts": {
     "dev": "vite",
     "build": "tsc --noEmit && vite build",
